@@ -2,3 +2,5 @@
 **_Proyecto Final_** - _Python Inicial_
 
 ![Turnos](/imagenes/imagen_principal.jpeg)
+
+El ######**objetivo**
