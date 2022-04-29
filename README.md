@@ -17,4 +17,6 @@ El sistema genera turnos por cada profesional, por ejemplo, si el profesional as
 
 ### Versión 1.0 📌
 ## Autor  ✒️
-**Leandro Hernán Ibarra** - Proyecto final Python Inicial - 
+**Leandro Hernán Ibarra** - Proyecto final Python Inicial - [gestion_turnos](https://github.com/lhibarra/gestion_turnos)
+
+📧 lhibarra3@gmail.com
