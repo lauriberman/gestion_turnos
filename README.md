@@ -16,3 +16,5 @@ El sistema genera turnos por cada profesional, por ejemplo, si el profesional as
 ##  _Programado con Python_
 
 ### Versión 1.0 📌
+## Autor  ✒️
+**Leandro Hernán Ibarra** - Proyecto final Python Inicial - 
