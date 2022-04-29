@@ -13,7 +13,7 @@ Como se puede ver en la imagen al ingreso del sistema pide al usuario sus datos 
 
 El sistema genera turnos por cada profesional, por ejemplo, si el profesional asiste lunes y miércoles por la tarde el sistema creará turnos para esos horarios. El sistema pedirá el ID del profesional y del usuario que está entregando el turno. Con estos datos el sistema completa automáticamente todos los campos necesarios para crear y entregar el turno.
 
-![Diagra de flujo](/
+![Diagra de flujo](/imagenes/diagrama turnero.png)
 
 ##  _Programado con Python_
 
