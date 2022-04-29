@@ -1,6 +1,9 @@
+# Proyecto Final Python Inicial
+# Autor : Leandro Hernán Ibarra
+# Versión: 1.0
+# Última fecha de modificación 29/04/22
+
 from datetime import datetime
-from datetime import datetime
-from multiprocessing.dummy import connection
 import turnos
 now = datetime.now()
 
